@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Foundations of Mathematics",
+    "section": "",
+    "text": "Preface\nAll about mathematics.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "Fun.html",
+    "href": "Fun.html",
+    "title": "1  Fun Mathematics",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fun Mathematics</span>"
+    ]
+  },
+  {
+    "objectID": "Upcoming.html",
+    "href": "Upcoming.html",
+    "title": "2  Upcoming",
+    "section": "",
+    "text": "go with the flow",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Upcoming</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
